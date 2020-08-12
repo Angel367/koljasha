@@ -6,3 +6,4 @@ website/.idea/
 website/htmlsite/__pycache__/
 website/htmlsite/migrations/__pycache__/
 website/website/__pycache__/
+certbot-auto
