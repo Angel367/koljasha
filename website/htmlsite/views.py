@@ -10,7 +10,3 @@ def main_page(request):
 
 def handler404(request, exception=0):
     return render(request, 'index.html', {})
-
-
-def ssl_func(request):
-    return serve(request, path='ssl_file')
