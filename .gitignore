@@ -1,1 +1,8 @@
 node_modules/
+website/htmlsite/migrations/
+venv/
+website/db.sqlite3
+website/.idea/
+website/htmlsite/__pycache__/
+website/htmlsite/migrations/__pycache__/
+website/website/__pycache__/
