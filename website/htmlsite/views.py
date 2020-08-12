@@ -7,5 +7,5 @@ def main_page(request):
     return render(request, 'index.html', {})
 
 
-def main_redirect(request):
-    return redirect('/main/')
+def handler404(request, exception=0):
+    return render(request, 'index.html', {})
